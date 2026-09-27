@@ -1,0 +1,106 @@
+[
+  {
+    "_id": "6a1e7998603512201be5c63e",
+    "name": "7 Seater (Bolero/Scorpio)",
+    "taxi_sequence": 0,
+    "taxi_eta_minutes": 0,
+    "delivery_sequence": 0,
+    "delivery_eta_minutes": 0
+  },
+  {
+    "_id": "6a1e7a1d603512201be5c63f",
+    "name": "Sedan",
+    "taxi_sequence": 0,
+    "taxi_eta_minutes": 0,
+    "delivery_sequence": 0,
+    "delivery_eta_minutes": 0
+  },
+  {
+    "_id": "6a1e7a6a603512201be5c640",
+    "name": "Mini Car",
+    "taxi_sequence": 0,
+    "taxi_eta_minutes": 0,
+    "delivery_sequence": 0,
+    "delivery_eta_minutes": 0
+  },
+  {
+    "_id": "6a1e878556c9abd26412f519",
+    "name": "E-Richshaw",
+    "taxi_sequence": 0,
+    "taxi_eta_minutes": 0,
+    "delivery_sequence": 0,
+    "delivery_eta_minutes": 0
+  },
+  {
+    "_id": "6a71ce457b8bd1063e57a93c",
+    "name": "Bike",
+    "taxi_sequence": 1,
+    "taxi_eta_minutes": 0,
+    "delivery_sequence": 0,
+    "delivery_eta_minutes": 0
+  },
+  {
+    "_id": "6a845b91a1d9fe8548235638",
+    "name": "Big Auto",
+    "taxi_sequence": 3,
+    "taxi_eta_minutes": 0,
+    "delivery_sequence": 0,
+    "delivery_eta_minutes": 0
+  },
+  {
+    "_id": "6a845bd8a1d9fe8548235639",
+    "name": "Small auto",
+    "taxi_sequence": 2,
+    "taxi_eta_minutes": 0,
+    "delivery_sequence": 0,
+    "delivery_eta_minutes": 0
+  },
+  {
+    "_id": "6a845cd9a1d9fe854823563a",
+    "name": "EV/ CNG Cars",
+    "taxi_sequence": 0,
+    "taxi_eta_minutes": 0,
+    "delivery_sequence": 0,
+    "delivery_eta_minutes": 0
+  },
+  {
+    "_id": "6a845d58a1d9fe854823563b",
+    "name": "Bike Parcel",
+    "taxi_sequence": 0,
+    "taxi_eta_minutes": 0,
+    "delivery_sequence": 0,
+    "delivery_eta_minutes": 0
+  },
+  {
+    "_id": "6a845f41d665aae0f676d0c7",
+    "name": "Pickup Carrier",
+    "taxi_sequence": 0,
+    "taxi_eta_minutes": 0,
+    "delivery_sequence": 1,
+    "delivery_eta_minutes": 0
+  },
+  {
+    "_id": "6a845f9fa1d9fe854823563c",
+    "name": "Small Trucks",
+    "taxi_sequence": 0,
+    "taxi_eta_minutes": 0,
+    "delivery_sequence": 2,
+    "delivery_eta_minutes": 0
+  },
+  {
+    "_id": "6a845fd6a1d9fe854823563d",
+    "name": "Medium Trucks",
+    "taxi_sequence": 0,
+    "taxi_eta_minutes": 0,
+    "delivery_sequence": 3,
+    "delivery_eta_minutes": 0
+  },
+  {
+    "_id": "6a84600dd665aae0f676d0c8",
+    "name": "Heavy Truck",
+    "taxi_sequence": 0,
+    "taxi_eta_minutes": 0,
+    "delivery_sequence": 4,
+    "delivery_eta_minutes": 0
+  }
+]

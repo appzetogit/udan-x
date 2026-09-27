@@ -1,0 +1,5 @@
+
+Backend/.env
+Backend/.env.bak
+Backend/.env.prers
+*.env
